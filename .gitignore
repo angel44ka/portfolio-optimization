@@ -1,10 +1,14 @@
+# Python environments and temporary files
 .venv/
 venv/
 __pycache__/
 *.py[cod]
-.DS_Store
 .pytest_cache/
 .ipynb_checkpoints/
 
-data/processed/
-results/
+# Operating system files
+.DS_Store
+
+# Locally generated datasets and experiment outputs
+research/data/processed/
+research/results/
