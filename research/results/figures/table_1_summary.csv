@@ -1,0 +1,7 @@
+period,method,n_runs,mean_volatility_pct,std_volatility_pp,mean_return_pct,std_return_pp
+Training,SGA,30,16.989360,0.011784,,
+Training,MGA,30,16.969431,0.005649,,
+Validation,SGA,30,16.707482,0.130030,18.553589,0.977533
+Validation,MGA,30,16.579322,0.015234,18.032268,0.064613
+Test,SGA,30,12.793352,0.099927,12.003229,0.658352
+Test,MGA,30,12.761845,0.018967,11.803193,0.224684
